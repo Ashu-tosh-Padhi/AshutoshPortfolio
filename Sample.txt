@@ -1,207 +1,142 @@
-
-The primary objective of Request Fulfillment process is to?
+In what conditions can change be rejected?
 (1 Point)
 
-Source and deliver the components of requested services
+Lack of representation at the CAB meeting.
 
-Provide information to users about the availability of various services and procedure for obtaining them
+Lack of appropriate business approval or customer notification.
 
-Fulfil a request for service and answer requests for information
+Issues / Concerns identified during the CAB (e.g. Change poses a larger risk than previously assessed).
+
+All of the Above
+2.What is the Change Window defined for Infrastructure Support?
+(1 Point)
+
+Tuesdays and Fridays
+
+Tuesdays and Thursdays
+
+1st & 3rd Thursday of every month
+3.Which of the following statements about standard changes are CORRECT?
+I. The approach is pre-authorized
+II. The risk is usually low and well understood
+III. Details of the change will be recorded
+IV. Some standard changes will be triggered by the request fulfilment process
+(1 Point)
+
+I only
+
+I and II only
+
+I, II and III only
 
 All of the above
-2.What is INDG’s SLA for request fulfillment?
+4.Which of the following statements is correct?
 (1 Point)
 
-Response Time: 8hrs, Resolution Time: 24 hrs
+No need to test emergency changes
 
-Response Time: 4hrs, Resolution Time: 12 hrs
+Emergency changes should be as minimal as possible
 
-Response Time: 12hrs, Resolution Time: 24 hrs
+To speed up the process all changes must be categorized as Emergency changes
 
-Response Time: 4hrs, Resolution Time: 24 hrs
-3.Who can promote the Major Incident?
+Both Emergency and Urgent Changes are same
+5.Which of the following statement about Change and Release Management is correct?
 (1 Point)
 
-Major Incident Manager
+Release Management works under the control of change management
 
-Service Desk
+Change Management is the implementation process and Release Management is controlling process
 
-Management Team
+Both Change and Release Management are same
 
-Problem Manager
-4.Which of the following statements is true about a service request and a service catalog?
+Release Management is the governing process for Changes
+6.Which of the following is not a valid type of change as per INDG Change Management Process?
 (1 Point)
 
-Service Request is a subset of Service Catalog
+Standard
 
-Service Catalog is a subset of Service Request
+Emergency
 
-Services listed in the Catalogue can be requested by creating a service request
+Normal
 
-Service Catalog is a Service Request portal
-5.What is a Request Model?
+Urgent
+7.What type of change is required in case of a Major Incident?
 (1 Point)
 
-A repeatable way of dealing with a particular type of service request
+Standard
 
-Performing activities to meet a need or requirement
+Emergency
 
-A database containing all the resolution actions performed on service requests
-
-Actions defined for the fulfillment of service requests
-6.What is difference between Work notes and Additional comments?
+Normal
+8.Who can authorize change Rollback?
 (1 Point)
 
-Both are same
+Incident Manager
 
-Work notes are for Technical Teams, Additional Comments are for Users
+Service Delivery Manager
 
-Work notes are for user, Additional Comments are for Technical teams
+Release Manager
 
-None of the above
-7.What should an end-user do to log a request if the requested service is not in ServiceNow’s standard catalog item?
-(1 Point)
-
-Create a service request to add the new catalog item in ServiceNow
-
-Contact Service Desk via phone or email
-
-Add a new catalog item in ServiceNow
-
-Raise a Change Request to add the new catalog item in ServiceNow
-8.In case of missing information, when can a service request be closed?
-(1 Point)
-
-It should be closed immediately as the necessary information is missing
-
-It should be closed if the information is not provided within the defined timeframe
-
-It should be closed only after consultation with the end-user
-
-It should be kept under ‘Awaiting User Information’ status and never closed
-9.When an Incident communication plan is triggered?
-(1 Point)
-
-When we declare major incidents
-
-When the cause of incident is not known
-
-When Incident Repeats
-
-When it is a Problem
-10.Which field do we use to get additional information from user?
-(1 Point)
-
-Work notes
-
-Short Description
-
-Additional Comments
-
-State
-11.What is the purpose of Request Fulfilment process?
-(1 Point)
-
-Dealing with the Change Requests from the users
-
-Ensuring fulfilment of Service Requests
-
-Ensuring SLAs are met
-
-Ensuring all requests within an IT organization are fulfilled
-12.Do we need Manager’s approval for reassigning tickets to other teams?
+Domain Owner
+9.Can a Change be implemented during Change Freeze period?
 (1 Point)
 
 No
 
 Yes
-13.Which process is primarily responsible for build, test and deployment of services?
+10.Which is the correct approval levels for a normal change raised as per SCCC process?
 (1 Point)
 
-Release Management
+1- CAB; 2-Technical Approver
 
-Service Catalog Management
+1-Business Approval; 2-Technical Approver; 3-CAB; 4-Domain Owner
 
-Request Fulfilment
+1-Technical Approver; 2-Change Manager; 3-Domain Approval
 
-Service Level Management
-14.What is a Service Catalog?
+1-Change Manager; 2-ECAB; 3-Technical Approver
+11.In case of larger or more complex Changes, all changes are handed over to release and deployment management for processing?
 (1 Point)
 
-Request list dedicated for cross-functional services
+False
 
-A database containing service matrices
-
-List of critical service changes
-
-List of operational IT services
-15.Can we close the initially logged Incident ticket after creating the Problem / Change ticket?
+True
+12.When a change or release is pending UAT for more than 15 days can it be closed?
 (1 Point)
 
-Always
+Yes, as per Change Manager discretion
 
-Sometime
+Yes, only after approval from Service Delivery Manager
 
-Never
-16.To log and initiate a service request end user can contact Service Desk via?
+Yes, only after CAB confirmation
+
+No, it should remain open
+13.Who is final approving authority for the changes?
 (1 Point)
 
-Phone
+Team Lead
 
-Email
+Domain Owner
 
-Self-Service Portal
-
-All of the above
-17.Which of the following is a correct statement for a Service Request?
-(1 Point)
-
-Service Request is an unplanned interruption to an IT service or reduction in the quality of an IT service
-
-Service Request is a demand for a standard change or a request for information
-
-Service Request is always fulfilled by Service Desk
-
-Service Request is a subset of an Incident
-18.Who is ultimately responsible to keep a Service Request record up to date with accurate and relevant information?
-(1 Point)
-
-User / Requester
-
-Respective Support Teams
-
-Track Lead
+Change Advisory Board (CAB) / Emergency Change Advisory Board (ECAB)
 
 Change Manager
-19.Which among the following is one of the key outputs of Request Fulfillment process?
+14.Who can create request for Idea / Demand?
 (1 Point)
 
-Rejected / Cancelled / Closed Service Requests
+Super Users
 
-Request for Service Change
+Normal Users
 
-Request Models
+End Users
 
-SLAs and OLAs
-20.Every P1 / P2 incident is a Major Incident?
+Business Users
+15.Which of the statement is true in case of Emergency Change?
 (1 Point)
 
-True
+RFC is not required as the change is already approved by ECAB
 
-False
-21.Which of the following statement about Parent Child relationship is correct in context of Incident Management?
-(1 Point)
+RFC can be created after the change implementation
 
-Parent Child relationship is used to link multiple similar issues with the first incident in the series
+No change can be implemented before an RFC is submitted
 
-There is no relationship between the parent and child tickets
-
-Parent Child relationship is used to create task for multiple teams
-
-Parent Child relationship is used to work on multiple child incidents
-22.Service Requests that impact Configuration Items should be satisfied using standard change
-(1 Point)
-
-True
-
-False
+RFC is required before the implementation of the Emergency Change
