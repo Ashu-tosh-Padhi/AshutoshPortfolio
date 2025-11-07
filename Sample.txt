@@ -1,142 +1,140 @@
-In what conditions can change be rejected?
+Can we create a problem record from an Incident?
 (1 Point)
 
-Lack of representation at the CAB meeting.
+Yes
 
-Lack of appropriate business approval or customer notification.
-
-Issues / Concerns identified during the CAB (e.g. Change poses a larger risk than previously assessed).
-
-All of the Above
-2.What is the Change Window defined for Infrastructure Support?
+No
+2.Which among the following step is performed by the Change Manager within the Asset Management process?
 (1 Point)
 
-Tuesdays and Fridays
+Update Asset Database
 
-Tuesdays and Thursdays
+Approve Asset Deployment
 
-1st & 3rd Thursday of every month
-3.Which of the following statements about standard changes are CORRECT?
-I. The approach is pre-authorized
-II. The risk is usually low and well understood
-III. Details of the change will be recorded
-IV. Some standard changes will be triggered by the request fulfilment process
+Contract Renewal
+
+Perform Asset Audits
+3.Who is responsible for performing User Acceptance Testing (UAT)?
 (1 Point)
 
-I only
+Business / Domain Owner or their representatives
 
-I and II only
-
-I, II and III only
-
-All of the above
-4.Which of the following statements is correct?
-(1 Point)
-
-No need to test emergency changes
-
-Emergency changes should be as minimal as possible
-
-To speed up the process all changes must be categorized as Emergency changes
-
-Both Emergency and Urgent Changes are same
-5.Which of the following statement about Change and Release Management is correct?
-(1 Point)
-
-Release Management works under the control of change management
-
-Change Management is the implementation process and Release Management is controlling process
-
-Both Change and Release Management are same
-
-Release Management is the governing process for Changes
-6.Which of the following is not a valid type of change as per INDG Change Management Process?
-(1 Point)
-
-Standard
-
-Emergency
-
-Normal
-
-Urgent
-7.What type of change is required in case of a Major Incident?
-(1 Point)
-
-Standard
-
-Emergency
-
-Normal
-8.Who can authorize change Rollback?
-(1 Point)
-
-Incident Manager
-
-Service Delivery Manager
+Support Team (Distribution & Installation)
 
 Release Manager
 
-Domain Owner
-9.Can a Change be implemented during Change Freeze period?
+Support Team (Build & Test)
+4.What is difference between Work notes and Additional comments?
+(1 Point)
+
+Both are same
+
+Work notes are for user, Additional Comments are for Technical teams
+
+Work notes are for Technical Teams, Additional Comments are for Users
+
+None of the above
+5.Which of the following cannot create the Problem Ticket?
+(1 Point)
+
+Technical Team
+
+End User
+
+Event Management
+
+Supplier
+6.Which process provides a channel for the end users to ask for IMACD (Install, Move, Add, Change, Delete) hardware and software assets?
+(1 Point)
+
+Configuration Management
+
+Request Fulfilment
+
+Change Management
+
+Incident Management
+7.Can we close the Problem Ticket without closing the associated incident tickets?
 (1 Point)
 
 No
 
 Yes
-10.Which is the correct approval levels for a normal change raised as per SCCC process?
+8.What is the objective of Problem Management?
 (1 Point)
 
-1- CAB; 2-Technical Approver
+Focus on exploring and implementing new technologies
 
-1-Business Approval; 2-Technical Approver; 3-CAB; 4-Domain Owner
+Restore normal service operations as early as possible
 
-1-Technical Approver; 2-Change Manager; 3-Domain Approval
+Prevent recurrence of incidents
 
-1-Change Manager; 2-ECAB; 3-Technical Approver
-11.In case of larger or more complex Changes, all changes are handed over to release and deployment management for processing?
+Focus on implementing changes for fixing the problems
+9.What is the main purpose of Release Management?
 (1 Point)
 
-False
+To provide a unified system for managing and resolving issues with high impact
 
-True
-12.When a change or release is pending UAT for more than 15 days can it be closed?
+Introducing changes into the production environment with minimal disruption to ongoing operations
+
+To restore normal service operation as quickly as possible and minimize the adverse impact on business operations
+
+To deploy new services or changes to existing services with minimal disruption to business
+10.When can we create a known error record?
 (1 Point)
 
-Yes, as per Change Manager discretion
+When root cause is not known
 
-Yes, only after approval from Service Delivery Manager
+When RCA is complete, and we have a workaround
 
-Yes, only after CAB confirmation
+When there is a major incident
 
-No, it should remain open
-13.Who is final approving authority for the changes?
+None of the above
+11.Which of the following is the goal of asset management?
 (1 Point)
 
-Team Lead
+Effective use and maintenance of assets
 
-Domain Owner
+Lower costs by achieving optimum utilisation of assets
 
-Change Advisory Board (CAB) / Emergency Change Advisory Board (ECAB)
+Compliance to contractual agreement
+
+All of the above
+12.What are the major phases of Asset Management lifecycle?
+(1 Point)
+
+Test - Deploy - Approve
+
+Acquire - Deploy - Dispose
+
+Acquire - Test - Deploy
+13.Who can authorize code movement from QA to Production environment?
+(1 Point)
+
+IT Head
+
+Service Delivery Manager
+
+Business / Domain Owner
 
 Change Manager
-14.Who can create request for Idea / Demand?
+14.What is the difference between in an incident and a problem?
 (1 Point)
 
-Super Users
+Problem is the underlying cause of incidents
 
-Normal Users
+Incident & Problem both are same
 
-End Users
+Major Incident are called Problem
 
-Business Users
-15.Which of the statement is true in case of Emergency Change?
+Incidents are failures and Problems are solutions
+15.Which of the following will not result into a Problem Ticket?
 (1 Point)
 
-RFC is not required as the change is already approved by ECAB
+Service Request
 
-RFC can be created after the change implementation
+Trend Analysis
 
-No change can be implemented before an RFC is submitted
+Major Incident
 
-RFC is required before the implementation of the Emergency Change
+Repeated incident
