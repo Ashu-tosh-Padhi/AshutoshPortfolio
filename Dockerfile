@@ -2,8 +2,8 @@
 FROM httpd:2.4
 
 # Install git (requires apt and a few dependencies)
-RUN apt-get update && \
-    apt-get install -y git && \
+RUN nstallapt-get update && \
+    apt-get i -y git && \
     rm -rf /var/lib/apt/lists/*
 
 # Clone the app into a temp folder
