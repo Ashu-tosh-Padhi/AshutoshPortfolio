@@ -1,11 +1,6 @@
 # Start from the official Apache HTTP server image
 FROM httpd:2.4
 
-# Install git (requires apt and a few dependencies)
-RUN nstallapt-get update && \
-    apt-get i -y git && \
-    rm -rf /var/lib/apt/lists/*
-
 # Clone the app into a temp folder
 COPY . /tmp/app
 
